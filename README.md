@@ -25,3 +25,5 @@ En la carpeta models es troben els 5 models (RFC, SVM, KNN, LR i GNB) obtinguts 
 ## Plots
 En la carpeta plots s'han guardat alguns dels connectogrames incorporats al document final.
 
+## Documents
+En la carpeta documents s'ha guardat el treball de final de màster definitiu.
